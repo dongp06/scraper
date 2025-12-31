@@ -31,4 +31,4 @@ A powerful and lightweight API built with **Node.js** to scrape and download med
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/dongp06/scraper.git](https://github.com/dongp06/scraper.git)
+   git clone https://github.com/dongp06/scraper.git
